@@ -1,4 +1,9 @@
-
+/*
+ * Program    : Sum of First 50 Natural Numbers
+ * Name       : M Talha 
+ * Reg No     : L1S26BSCS0136
+ * Assignment : 01
+ */
 #include <iostream>
 using namespace std;
 
